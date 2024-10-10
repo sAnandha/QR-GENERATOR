@@ -1,4 +1,4 @@
-# QR-GENERATOR
+# QR-GENERATOR(Quick Response Code Generator)
 
 ![QR Code](qr-code.jpg)
 
