@@ -1,6 +1,6 @@
 # QR-GENERATOR
 
-![QR Code](REDIRECT%20PAGE/qr-code.png)
+![QR Code](qr-code.jpg)
 
 
 
